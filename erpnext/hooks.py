@@ -83,8 +83,8 @@ calendars = [
 website_generators = ["Item Group", "Website Item", "BOM", "Sales Partner"]
 
 website_context = {
-	"favicon": "/assets/erpnext/images/erpnext-favicon.svg",
-	"splash_image": "/assets/erpnext/images/erpnext-logo.svg",
+	"favicon": "/assets/frappe/images/icon7a.ico",
+	"splash_image": "/assets/frappe/images/icon7a.ico",
 }
 
 # nosemgrep
